@@ -46,6 +46,3 @@ new concepts are explored, practiced, and refined through code.
 A learner focused on mastering Python fundamentals through
 consistent practice and structured exploration.
 
----
-
-⭐ If you find this repository useful, feel free to star it.
